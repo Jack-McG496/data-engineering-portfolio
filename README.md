@@ -19,7 +19,11 @@ market sentiment, and derived metrics.
 
 👉 Repo: https://github.com/Jack-McG496/crypto-market-etl
 
-_(More projects coming soon)_
+### 📊 Market Event Engine
+Market intelligence engine, ingesting market events, analysing with LLM and tracking
+market price reactions.
+
+👉 Repo: https://github.com/Jack-McG496/market-event-engine
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/jack-mcgrath
